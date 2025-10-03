@@ -1,0 +1,7 @@
+{
+  "name": "hyperHireTinderSooAndCarrots",
+  "displayName": "hyperHireTinderSooAndCarrots",
+  "plugins": [
+    "expo-asset"
+  ]
+}
