@@ -36,8 +36,8 @@ It is built using **Clean Architecture + Atomic Design**, ensuring separation of
 1. Clone Repository
 
 ```bash
-git clone https://github.com/fajarpostman/hyper-hire-tinder-apps.git
-cd hyper-hire-tinder-apps/reactnative/hyperHireTinderSooAndCarrots
+git clone https://github.com/fajarpostman/react-native-tinder-apps.git
+cd react-native-tinder-apps
 ```
 
 2. Install dependencies
