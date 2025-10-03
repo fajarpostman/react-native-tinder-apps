@@ -63,7 +63,8 @@ npx react-native run-android
 ---
 
 ## Application Screen
-![application](image-1.png)
+<img width="311" height="695" alt="image" src="https://github.com/user-attachments/assets/276cfbfd-66c6-4467-b78e-52db014412d3" />
+
 
 ---
 
